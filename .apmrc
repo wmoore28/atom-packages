@@ -1,0 +1,2 @@
+strict-ssl=false
+proxy=http://jprox.jlab.org:8081

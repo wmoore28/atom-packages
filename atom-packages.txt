@@ -1,0 +1,16 @@
+atom-packages.txt
+busy-signal
+compare-files
+file-icons
+file-watcher
+git-blame
+intentions
+language-puppet
+linter
+linter-puppet-lint
+linter-puppet-parser
+linter-ui-default
+markdown-preview
+merge-conflicts
+minimap
+split-diff
