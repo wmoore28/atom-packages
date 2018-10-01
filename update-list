@@ -1,0 +1,5 @@
+#!/bin/sh
+
+ls -1 ~/.atom/packages > packages.tmp
+mv packages.tmp atom-packages.txt
+git diff atom-packages.txt
