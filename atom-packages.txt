@@ -1,4 +1,3 @@
-atom-packages.txt
 busy-signal
 compare-files
 file-icons
@@ -14,3 +13,4 @@ markdown-preview
 merge-conflicts
 minimap
 split-diff
+terminal-tab
