@@ -3,6 +3,7 @@ compare-files
 file-icons
 file-watcher
 git-blame
+ide-json
 intentions
 language-puppet
 linter
