@@ -2,7 +2,13 @@
 
 List of packages used with Atom editor and the .apmrc config file.
 
-To install:
+Requires bundle is installed.
+```
+yum install rubygems
+gem install bundle
+```
+
+To install atom packages:
 ```
 cp .apmrc to ~/.atom/
 ./install-list
